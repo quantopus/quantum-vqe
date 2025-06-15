@@ -1,6 +1,6 @@
 """VQE (Variational Quantum Eigensolver) Algorithm."""
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from .main import VQEAlgorithm
 
